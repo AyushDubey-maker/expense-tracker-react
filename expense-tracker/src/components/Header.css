@@ -1,0 +1,8 @@
+.header_user{
+    display: flex;
+    justify-content: space-between;
+}
+.logout_button{
+    height: 50px;
+   margin: 20px !important;
+}
