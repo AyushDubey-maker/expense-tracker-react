@@ -33,9 +33,9 @@ function Login() {
             <h1>Sign in</h1>
             <form>
                 <h5>Email</h5>
-                <input value={email} type="email" onChange={event=>setEmail(event.target.value)}/>
+                <input required value={email} type="email" onChange={event=>setEmail(event.target.value)}/>
                 <h5>Password</h5>
-                <input value={password} type="password" onChange={event=>setPassword(event.target.value)}/>
+                <input required value={password} type="password" onChange={event=>setPassword(event.target.value)}/>
                 <button type="submit" onClick={login} className="login_button">Log-In</button>
                
             </form>
