@@ -1,13 +1,11 @@
-
 import React,{ useEffect, useState} from 'react'
-//Importing Context from GlobalState
-// import {GlobalContext} from '../context/GlobalState'
+
 import Transaction from './Transaction'
 import './TransactionList.css'
 import firebase from 'firebase'
 import { db } from '../firebase'
 function TransactionList() {
-  // const {transactions}=useContext(GlobalContext)
+ 
   const user=firebase.auth().currentUser
   const [transactionData,setTransactionData]=useState([])
   

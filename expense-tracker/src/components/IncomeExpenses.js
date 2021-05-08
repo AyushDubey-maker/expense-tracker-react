@@ -1,11 +1,10 @@
-
 import React,{ useEffect, useState} from 'react'
-// import { GlobalContext } from '../context/GlobalState'
+
 import { db } from '../firebase';
 import './IncomeExpenses.css'
 import firebase from 'firebase'
 function IncomeExpenses() {
-  // const {transactions} =useContext(GlobalContext)
+
   const [transactionsData,setTransactionsData]=useState([])
   const user=firebase.auth().currentUser
   useEffect(()=>{
