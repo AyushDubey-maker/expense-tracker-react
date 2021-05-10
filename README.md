@@ -5,7 +5,7 @@ This app provides user-authentication as well as all CRUD operations related to 
 ### `Clone the repository:` 
 ```
 git clone 
-https://github.com/AyushDubey-maker/expense-tracker-react.git
+https://github.com/AyushDubey-maker/expense-tracker-react.git`
 ```
 ### `Install Packages:`
 ```
@@ -30,8 +30,13 @@ https://www.codementor.io/@yurio/all-you-need-is-react-firebase-4v7g9p4kf
 
 <details>
 <summary>View Code Output :</summary>
+Login Page:
 <img src="./expense-tracker/git-images/expense-tracker-login.png"/>
+Home-Page Outputs:
+<hr/>
 <img src="./expense-tracker/git-images/expense-tracker-homepage.png"/>
+<img src="./expense-tracker/git-images/expense-tracker-add-transaction.png"/>
+<hr/>
 <img src="./expense-tracker/git-images/expense-tracker-homepage-2.png"/>
 </details>
 
