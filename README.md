@@ -7,12 +7,41 @@ This app provides user-authentication as well as all CRUD operations related to 
 git clone 
 https://github.com/AyushDubey-maker/expense-tracker-react.git
 ```
+### `Install Packages:`
+```
+npm install
+```
+```
+@material-ui/core
+@material-ui/icons
+firebase
+react-id-generator
+react-router-dom
+```
+`Note:Do not forget to create your firebase Project and add the firebase config file in your code`
+
+```
+Get started with Firebase (Web): https://firebase.google.com/docs/web/setup
+
+Firebase React Setup:
+https://www.codementor.io/@yurio/all-you-need-is-react-firebase-4v7g9p4kf
+
+```
+
 <details>
 <summary>View Code Output :</summary>
 <img src="./expense-tracker/git-images/expense-tracker-login.png"/>
 <img src="./expense-tracker/git-images/expense-tracker-homepage.png"/>
 <img src="./expense-tracker/git-images/expense-tracker-homepage-2.png"/>
 </details>
+
+### Features 📣:
+- Create your account with complete user authentication.
+- Add your income and expense accordingly which will be added to your balance.
+- Income/ Expense can also be updated or deleted which will also be updated to the total balance.
+
+- This will eventually help you to keep a track on your income.
+
 
 
 
