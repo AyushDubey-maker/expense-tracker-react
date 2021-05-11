@@ -1,6 +1,7 @@
 .header_user{
     display: flex;
     justify-content: space-between;
+
 }
 .logout_button{
     height: 50px;
