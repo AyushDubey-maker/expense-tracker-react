@@ -20,24 +20,31 @@ react-router-dom
 ```
 `Note:Do not forget to create your firebase Project and add the firebase config file in your code`
 
-```
+
 Get started with Firebase (Web): https://firebase.google.com/docs/web/setup
 
 Firebase React Setup:
 https://www.codementor.io/@yurio/all-you-need-is-react-firebase-4v7g9p4kf
 
-```
+
+
 
 <details>
 <summary>View Code Output :</summary>
-Login Page:
+
+ > ### Login Page:
 <img src="./expense-tracker/git-images/expense-tracker-login.png"/>
-Home-Page Outputs:
+
+> ### Home-Page Outputs:
 <hr/>
 <img src="./expense-tracker/git-images/expense-tracker-homepage.png"/>
 <img src="./expense-tracker/git-images/expense-tracker-add-transaction.png"/>
 <hr/>
 <img src="./expense-tracker/git-images/expense-tracker-homepage-2.png"/>
+
+ > ### Update Transaction:
+ <hr/>
+ <img src="./expense-tracker/git-images/expense-tracker-update-transaction.png"/>
 </details>
 
 ### Features 📣:
