@@ -26,6 +26,9 @@ Get started with Firebase (Web): https://firebase.google.com/docs/web/setup
 Firebase React Setup:
 https://www.codementor.io/@yurio/all-you-need-is-react-firebase-4v7g9p4kf
 
+Checkout firebase demo file for this app :  
+https://github.com/AyushDubey-maker/expense-tracker-react/blob/master/expense-tracker/src/demo-firebase.js
+
 
 
 
